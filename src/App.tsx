@@ -59,6 +59,7 @@ export function App() {
   }
 
   return (
+  
     <div style={{ display: 'flex', flexDirection: 'row' }}>
       <nav className="sidebar">
         <span>Watch<p>Me</p></span>
